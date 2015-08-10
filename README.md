@@ -8,3 +8,5 @@ This is the question I tried to answer for this hackathon: How does some of the 
 Details of the hackathon can be found [here](http://discuss.analyticsvidhya.com/t/online-hackathon-3-0-find-the-next-brain-wong/2838)
 
 Unsurprisingly, none of the models worked well on the leaderboard. But this can work as a quick-start benchmark code for such data.
+
+The code, in notebook format, can be viewed [here](http://nbviewer.ipython.org/github/rouseguy/Analytics-Vidhya-Hackathon-3/blob/master/Analytics_Vidhya_Hackathon3_Aug8-9.ipynb)
