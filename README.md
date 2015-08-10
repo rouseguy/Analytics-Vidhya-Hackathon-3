@@ -1,4 +1,5 @@
-# Analytics Vidhya Online Hackathon held on Aug 8,9
+# Analytics Vidhya Online Hackathon 
+### Held on Aug 8,9
 
 AnalyticsVidhya organized an online hackathon during the weekend Aug-8,9.
 
